@@ -14,3 +14,5 @@ App - "HomeChef" - Like Uber eats but you order for someone to come and cook at 
 App - "Homie" - A design app where people can build custom HD wallpapers and share it with friends
 
 Script - that just applies for jobs for you instead of having to go through the injection process
+
+Website - A booking website we can reuse and sell to clients for their purposes
