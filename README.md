@@ -16,3 +16,6 @@ App - "Homie" - A design app where people can build custom HD wallpapers and sha
 Script - that just applies for jobs for you instead of having to go through the injection process
 
 Website - A booking website we can reuse and sell to clients for their purposes
+
+Create an Instagram to handle business details
+
