@@ -19,3 +19,4 @@ Website - A booking website we can reuse and sell to clients for their purposes
 
 Create an Instagram to handle business details
 
+App - One of those braindead games where the user runs around collecting coins
