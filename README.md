@@ -26,3 +26,5 @@ App - Something to scan your games after a match, and tell you in future games i
 App - for resturant reservations
 
 App - where people scan prices of produce at grocery stores and uploads it to a shared place. So everyone can see the lowest prices
+
+App - Scan your medical prescription and it reminds you when you take your meds
