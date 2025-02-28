@@ -3,8 +3,6 @@ App - "Land Lore" - Gives feedback about landlords. Useful for univerisity stude
 
 Website - "Game Page' - Similar to IG and Facebook, a social media platform made specifically for gamers. To share highlight reels and tier achievements. Integrated with gaming companies
 
-Game - "[unkown]" - A card game similar to runeterra
-
 App / Website - "E News" - combines all news sources into one place so user can easily navigate and see the different views
 
 App - "What's that sound" - uses AI to tell you exactly what that sound is
@@ -28,3 +26,4 @@ App - for resturant reservations
 App - where people scan prices of produce at grocery stores and uploads it to a shared place. So everyone can see the lowest prices
 
 App - Scan your medical prescription and it reminds you when you take your meds
+
