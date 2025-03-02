@@ -27,3 +27,4 @@ App - where people scan prices of produce at grocery stores and uploads it to a 
 
 App - Scan your medical prescription and it reminds you when you take your meds
 
+Script - To make a commit for you to github so your contributions display
